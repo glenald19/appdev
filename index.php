@@ -1,6 +1,10 @@
 <?php
+<<<<<<< HEAD
 // Final contribution fix by glenald19
 
+=======
+// Final contribution fix by Pathy-Pat
+>>>>>>> 3a948ccc9eee73bb72620d8c5becd1d0e0ddf031
 require 'db.php';
 
 $stmt = $pdo->query("SELECT * FROM students");
