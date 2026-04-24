@@ -1,4 +1,6 @@
 <?php
+// Final contribution fix by glenald19
+
 require 'db.php';
 
 $stmt = $pdo->query("SELECT * FROM students");
