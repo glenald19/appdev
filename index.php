@@ -1,4 +1,5 @@
 <?php
+// Final contribution fix by Pathy-Pat
 require 'db.php';
 
 $stmt = $pdo->query("SELECT * FROM students");
